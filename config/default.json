@@ -1,0 +1,11 @@
+{
+  
+    "Customer": {
+      "dbConfig": 
+       "mongodb+srv://selva:selva@cluster0.gppnp.mongodb.net/<dbname>?retryWrites=true&w=majority"     
+     
+    },
+    "jwtSecret":{
+      "jwt":"HAPPY"
+    }
+  }

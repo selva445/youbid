@@ -1,0 +1,7 @@
+{
+    "sysendpoint":{ 
+
+        "login":"http://localhost:6500/api/register"
+    }
+}
+
